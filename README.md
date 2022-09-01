@@ -2,3 +2,14 @@
 MI 462
 Ryan Johnson 
 Data Analytics Projects
+- Excel and MiniTab Data Analysis Project (MG220)
+- Data Preparation and Tableau Vizualization Project (MG226)
+- Database Management Tasks using SQL (MI462)
+- Database Analysis using Python data frames (CS260)
+- Data Mining SAS Project (MI353)
+- Robotic Processing Automation Project (MI462)
+- Machine Learning/AI Project Notebook (MI462)
+- MSG Promotions Social Media Analytics Reporting (SS450)
+- Excel and SPSS 76ers Market Research Project (SS290)
+- Girls on the Run and Special Olympics SPSS Market Research Project (MK410)
+- Personal AI/Data Ethics Statement (MI462)
