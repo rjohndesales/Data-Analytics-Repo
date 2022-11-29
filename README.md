@@ -13,3 +13,4 @@ Data Analytics Projects
 - Excel and SPSS 76ers Market Research Project (SS290)
 - Microsoft Power BI Dashboard (MI 462)
 - Personal AI/Data Ethics Statement (MI462)
+- Design Thinking Statement (MI 462)
