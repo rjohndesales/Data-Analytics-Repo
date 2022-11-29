@@ -11,5 +11,5 @@ Data Analytics Projects
 - Machine Learning/AI Project Notebook (MI462)
 - MSG Promotions Social Media Analytics Reporting (SS450)
 - Excel and SPSS 76ers Market Research Project (SS290)
-- Girls on the Run and Special Olympics SPSS Market Research Project (MK410)
+- Microsoft Power BI Dashboard (MI 462)
 - Personal AI/Data Ethics Statement (MI462)
