@@ -18,5 +18,8 @@ Data Analytics Projects
 
 # Relevant Certifications
 - Office 2019 : Microsoft Office Specialist: Excel Associate Certification
+- Tableau Desktop Fundamentals Certification
+- Tableau Desktop Intermediate Certification
+- Tableau Prep Builder Certification
 - Blue Prism Foundation Training
 - Academy Accreditation : Databricks Lakehouse Fundamentals
