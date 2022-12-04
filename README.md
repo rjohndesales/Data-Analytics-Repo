@@ -12,8 +12,8 @@ Data Analytics Projects
 - MSG Promotions Social Media Analytics Reporting (SS450)
 - Excel and SPSS 76ers Market Research Project (SS290)
 - Microsoft Power BI Dashboard (MI 462)
-- Personal AI/Data Ethics Statement (MI462)
-- Design Thinking Statement (MI 462)
+- Personal AI/Data Ethics and Design Thinking Statements (MI462)
+
 
 # Relevant Certifications
 - Office 2019 : Microsoft Office Specialist: Excel Associate Certification
