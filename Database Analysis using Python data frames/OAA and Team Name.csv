@@ -1,0 +1,501 @@
+last_name, first_name,player_id,display_team_name,year,primary_pos_formatted,fielding_runs_prevented,outs_above_average,outs_above_average_infront,outs_above_average_lateral_toward3bline,outs_above_average_lateral_toward1bline,outs_above_average_behind,outs_above_average_rhh,outs_above_average_lhh,actual_success_rate_formatted,adj_estimated_success_rate_formatted,diff_success_rate_formatted
+Abreu, José,547989,White Sox,,1B,0,0,1,-2,0,1,2,-2,73%,73%,0%
+Acuña Jr., Ronald,660670,Braves,,CF,1,1,1,0,-2,2,1,-1,89%,88%,1%
+Adames, Willy,642715,---,,SS,-6,-8,-1,1,-7,0,-3,-6,75%,76%,-1%
+Adams, Matt,571431,Rockies,,1B,-1,-1,-1,0,0,0,0,0,68%,73%,-5%
+Adell, Jo,666176,Angels,,RF,0,0,-1,1,-1,0,0,-1,83%,84%,-1%
+Adrianza, Ehire,501303,Braves,,SS,1,2,1,1,-1,0,0,2,75%,74%,1%
+Aguilar, Jesús,542583,Marlins,,1B,1,1,3,-2,-1,1,2,-1,68%,68%,0%
+Ahmed, Nick,605113,D-backs,,SS,14,19,13,3,3,0,15,3,75%,71%,4%
+Akiyama, Shogo,673451,Reds,,CF,1,1,1,-1,1,1,2,0,90%,88%,2%
+Alberto, Hanser,593643,Royals,,2B,-1,-1,-3,0,3,-1,-1,0,73%,73%,0%
+Albies, Ozzie,645277,Braves,,2B,0,1,7,-1,-4,-1,-1,1,79%,79%,0%
+Alcántara, Sergio,642727,Cubs,,SS,6,9,3,1,4,1,2,6,74%,71%,3%
+Alfaro, Jorge,595751,Marlins,,LF,-2,-2,0,-1,-1,-1,-1,-1,77%,85%,-8%
+Alford, Anthony,546990,Pirates,,LF,3,4,0,2,1,1,2,2,91%,86%,5%
+Allen, Greg,656185,Yankees,,CF,1,1,1,0,0,0,1,0,93%,90%,3%
+Almonte, Abraham,501659,Braves,,LF,-2,-2,0,1,-1,-2,-1,-2,85%,88%,-3%
+Almora Jr., Albert,546991,Mets,,CF,0,1,0,0,0,0,0,0,91%,90%,1%
+Alonso, Pete,624413,Mets,,1B,1,1,4,-6,4,-1,2,-1,71%,71%,0%
+Altuve, Jose,514888,Astros,,2B,4,5,8,1,-4,-1,3,3,76%,75%,1%
+Alvarez, Eddy,657193,Marlins,,3B,-3,-4,-2,-2,0,0,-2,-2,64%,69%,-5%
+Alvarez, Yordan,670541,Astros,,LF,-1,-1,1,-1,0,-1,-1,0,79%,81%,-2%
+Anderson, Brian,605119,Marlins,,3B,1,1,1,0,0,0,2,-1,71%,71%,0%
+Anderson, Tim,641313,White Sox,,SS,2,3,1,2,-3,2,0,3,73%,73%,0%
+Andrus, Elvis,462101,Athletics,,SS,5,6,11,-1,-2,-1,6,0,72%,70%,2%
+Andújar, Miguel,609280,Yankees,,3B,-1,-1,0,-2,1,0,-1,0,79%,80%,-1%
+Aquino, Aristides,606157,Reds,,RF,-2,-2,-1,1,-1,0,0,-2,83%,85%,-2%
+Araúz, Jonathan,660620,Red Sox,,2B,0,0,-1,0,1,0,1,-1,69%,69%,0%
+Arcia, Orlando,606115,---,,SS,0,0,0,0,0,-1,0,-1,79%,80%,-1%
+Arenado, Nolan,571448,Cardinals,,3B,8,10,7,-1,4,-1,14,-4,70%,68%,2%
+Arozarena, Randy,668227,Rays,,LF,2,2,0,0,2,-1,-1,3,88%,87%,1%
+Arraez, Luis,650333,Twins,,2B,-4,-6,-3,-2,-1,0,1,-6,73%,75%,-2%
+Arroyo, Christian,624414,Red Sox,,2B,1,1,-1,1,0,1,0,1,79%,78%,1%
+Astudillo, Willians,553902,Twins,,3B,-2,-3,-2,0,0,-1,-1,-2,65%,67%,-2%
+Baddoo, Akil,668731,Tigers,,CF,0,0,-2,1,0,1,1,-1,87%,87%,0%
+Bader, Harrison,664056,Cardinals,,CF,13,14,3,6,5,1,6,8,92%,88%,4%
+Barrero, Jose,676480,Reds,,SS,1,2,1,1,0,0,0,1,79%,76%,3%
+Bauers, Jake,641343,---,,1B,3,3,2,-1,2,1,1,3,85%,83%,2%
+Beaty, Matt,607461,Dodgers,,1B,-5,-6,-2,-1,-3,0,-3,-3,72%,79%,-7%
+Bell, Josh,605137,Nationals,,1B,2,3,3,-2,0,1,-1,4,73%,72%,1%
+Bellinger, Cody,641355,Dodgers,,CF,2,3,-1,-1,5,0,2,0,89%,88%,1%
+Belt, Brandon,474832,Giants,,1B,2,2,1,-2,3,1,1,1,75%,74%,1%
+Benintendi, Andrew,643217,Royals,,LF,1,1,-1,0,0,2,-1,2,85%,84%,1%
+Berti, Jon,542932,Marlins,,3B,0,0,1,-3,1,1,2,-2,77%,77%,0%
+Betts, Mookie,605141,Dodgers,,RF,-1,-1,2,-4,1,0,-1,0,86%,86%,0%
+Bichette, Bo,666182,Blue Jays,,SS,-4,-6,-13,0,3,4,-8,2,73%,74%,-1%
+Biggio, Cavan,624415,Blue Jays,,2B,-5,-6,-1,0,-5,-1,-4,-3,73%,76%,-3%
+Blackmon, Charlie,453568,Rockies,,CF,-7,-8,0,-4,-3,0,-2,-6,85%,88%,-3%
+Blandino, Alex,607468,Reds,,2B,0,0,0,0,1,0,0,0,79%,78%,1%
+Bogaerts, Xander,593428,Red Sox,,SS,-7,-10,0,-8,-1,-1,-10,0,72%,74%,-2%
+Bohm, Alec,664761,Phillies,,3B,-2,-3,-1,2,-3,-1,-2,-1,71%,73%,-2%
+Bolt, Skye,621450,---,,CF,2,2,0,0,2,0,1,1,93%,89%,4%
+Bote, David,623520,Cubs,,3B,0,0,2,1,-4,1,0,1,71%,71%,0%
+Bradley Jr., Jackie,598265,Brewers,,CF,4,5,2,1,2,1,4,1,92%,90%,2%
+Bradley, Bobby,656252,Indians,,1B,0,0,0,0,-1,0,0,0,78%,78%,0%
+Brantley, Michael,488726,Astros,,LF,-2,-2,1,-1,-2,0,1,-3,85%,86%,-1%
+Bregman, Alex,608324,Astros,,3B,0,0,3,-3,1,0,7,-6,70%,70%,0%
+Brinson, Lewis,621446,Marlins,,CF,1,1,1,1,-1,0,-1,2,89%,88%,1%
+Brosseau, Mike,670712,Rays,,2B,0,1,0,2,-2,0,1,0,73%,72%,1%
+Brown, Seth,664913,Athletics,,RF,5,5,2,0,2,1,4,1,91%,89%,2%
+Bruce, Jay,457803,Yankees,,RF,0,-1,0,-1,0,0,0,0,58%,63%,-5%
+Bruján, Vidal,660644,Rays,,2B,0,-1,0,0,0,0,0,0,75%,78%,-3%
+Bryant, Kris,592178,---,,3B,-7,-9,-2,-1,-4,-2,-6,-3,74%,76%,-2%
+Burger, Jake,669394,White Sox,,3B,1,1,1,0,0,0,1,0,88%,80%,8%
+Buxton, Byron,621439,Twins,,CF,7,8,1,3,3,0,4,4,96%,92%,4%
+Báez, Javier,595879,---,,SS,2,3,-4,5,1,1,1,1,79%,79%,0%
+Cabrera, Asdrúbal,452678,---,,SS,-2,-3,0,-4,2,-1,1,-4,66%,67%,-1%
+Cabrera, Miguel,408234,Tigers,,1B,-1,-2,0,0,-1,0,0,-2,72%,74%,-2%
+Cain, Lorenzo,456715,Brewers,,CF,5,6,-1,3,3,1,4,2,93%,90%,3%
+Calhoun, Kole,594777,D-backs,,RF,-1,-1,0,-1,0,0,-2,1,85%,86%,-1%
+Calhoun, Willie,641432,Rangers,,LF,-2,-2,-1,-1,0,0,-2,0,85%,89%,-4%
+Cameron, Daz,663662,Tigers,,RF,-1,-1,-1,0,-1,1,-2,0,80%,81%,-1%
+Candelario, Jeimer,600869,Tigers,,3B,0,-1,2,2,-5,0,2,-2,66%,66%,0%
+Canha, Mark,592192,Athletics,,CF,3,3,0,1,1,0,2,1,88%,87%,1%
+Carlson, Dylan,666185,Cardinals,,RF,-3,-4,-2,-2,0,0,1,-5,87%,88%,-1%
+Carpenter, Matt,572761,Cardinals,,3B,-1,-1,1,-2,-1,0,0,-2,70%,71%,-1%
+Castellanos, Nick,592206,Reds,,RF,-5,-6,-1,-4,-2,1,-4,-2,83%,85%,-2%
+Castro, Harold,605612,Tigers,,2B,-10,-13,-2,-7,-3,-1,-9,-4,72%,77%,-5%
+Castro, Rodolfo,666801,Pirates,,2B,0,-1,-1,-1,1,0,-1,0,74%,75%,-1%
+Castro, Starlin,516770,Nationals,,2B,0,0,2,2,-3,0,-3,3,72%,72%,0%
+Castro, Willi,650489,Tigers,,2B,0,0,-2,3,-2,1,2,-2,75%,75%,0%
+Cave, Jake,595909,Twins,,CF,-1,-1,0,-1,0,0,1,-1,87%,87%,0%
+Celestino, Gilberto,665482,Twins,,CF,-1,-2,-1,-1,1,0,-1,-1,79%,82%,-3%
+Chang, Yu,644374,Indians,,3B,3,4,0,0,3,0,3,1,73%,71%,2%
+Chapman, Matt,656305,Athletics,,3B,13,17,11,-1,5,2,11,6,73%,70%,3%
+Chavis, Michael,656308,---,,2B,2,3,0,2,-1,1,1,1,78%,75%,3%
+Chisholm Jr., Jazz,665862,Marlins,,2B,-3,-4,1,-2,-5,2,-5,1,76%,77%,-1%
+Choi, Ji-Man,596847,Rays,,1B,-1,-1,1,-1,1,-2,-2,1,66%,67%,-1%
+Clement, Ernie,676391,Indians,,2B,3,4,1,0,2,0,1,3,74%,71%,3%
+Conforto, Michael,624424,Mets,,RF,1,1,1,0,-1,1,3,-2,87%,87%,0%
+Cooper, Garrett,643265,Marlins,,1B,-2,-2,1,1,-1,-3,-1,-1,80%,82%,-2%
+Cordero, Franchy,614173,Red Sox,,LF,-1,-1,1,-1,-1,0,-1,0,78%,80%,-2%
+Correa, Carlos,621043,Astros,,SS,9,12,6,5,1,0,6,6,77%,75%,2%
+Craig, Will,643269,Pirates,,1B,-2,-2,-1,-2,0,0,0,-2,64%,70%,-6%
+Crawford, Brandon,543063,Giants,,SS,11,15,5,9,1,1,11,4,73%,70%,3%
+Crawford, J.P.,641487,Mariners,,SS,0,0,4,-4,0,0,4,-4,76%,76%,0%
+Cron, C.J.,543068,Rockies,,1B,-1,-1,2,-2,0,-1,1,-2,73%,73%,0%
+Cronenworth, Jake,630105,Padres,,2B,1,1,0,5,-5,1,3,-2,75%,74%,1%
+Culberson, Charlie,518586,Rangers,,3B,2,2,1,0,1,1,3,-1,74%,73%,1%
+Dahl, David,621311,Rangers,,LF,-1,-2,1,-1,-3,1,-2,0,82%,84%,-2%
+Dalbec, Bobby,666915,Red Sox,,1B,-6,-8,-3,-6,-1,1,-5,-3,68%,71%,-3%
+Davis, J.D.,605204,Mets,,3B,-2,-3,0,0,-3,0,-4,1,67%,69%,-2%
+Davis, Jonathan,641505,---,,CF,2,3,-1,1,2,0,3,0,95%,90%,5%
+Daza, Yonathan,602074,Rockies,,CF,3,3,1,0,2,0,0,3,90%,88%,2%
+De La Cruz, Bryan,650559,Marlins,,CF,0,0,0,0,-1,-1,1,-2,86%,86%,0%
+DeJong, Paul,657557,Cardinals,,SS,4,5,9,-1,-2,0,4,1,81%,80%,1%
+DeShields, Delino,592261,Reds,,CF,0,0,0,0,0,0,0,0,90%,90%,0%
+Dean, Austin,621573,Cardinals,,LF,-1,-1,0,-1,0,0,-1,0,87%,93%,-6%
+Deichmann, Greg,656364,Cubs,,RF,0,0,0,0,0,0,0,0,85%,87%,-2%
+Devers, José,672701,Marlins,,2B,-2,-2,0,-1,-1,0,1,-3,63%,69%,-6%
+Devers, Rafael,646240,Red Sox,,3B,-10,-13,-5,-8,0,0,-11,-2,68%,70%,-2%
+Dickerson, Alex,543105,Giants,,LF,-3,-3,0,-1,-3,0,-2,-1,85%,88%,-3%
+Dickerson, Corey,572816,---,,LF,2,2,2,0,1,0,0,2,88%,86%,2%
+Difo, Wilmer,594694,Pirates,,2B,-4,-5,0,-2,-2,-1,-3,-2,73%,77%,-4%
+Donaldson, Josh,518626,Twins,,3B,1,1,0,2,-2,1,0,1,70%,70%,0%
+Dozier, Hunter,641531,Royals,,3B,-11,-13,0,-1,-10,-2,-11,-2,72%,76%,-4%
+Drury, Brandon,592273,Mets,,2B,0,-1,0,0,0,0,0,0,74%,76%,-2%
+Dubón, Mauricio,643289,Giants,,2B,2,3,0,0,2,1,2,0,76%,75%,1%
+Duffy, Matt,622110,Cubs,,3B,-3,-4,-1,-2,-1,0,-2,-2,68%,69%,-1%
+Duggar, Steven,621453,Giants,,CF,2,2,2,-1,3,-2,0,1,89%,88%,1%
+Duran, Jarren,680776,Red Sox,,CF,0,0,0,0,0,0,0,0,90%,90%,0%
+Duvall, Adam,594807,---,,LF,4,5,2,3,0,0,1,4,88%,87%,1%
+Dyson, Jarrod,502481,---,,CF,4,5,0,2,3,0,4,1,90%,87%,3%
+Díaz, Aledmys,649557,Astros,,SS,6,8,4,2,2,-1,5,3,74%,71%,3%
+Díaz, Isan,656371,Marlins,,2B,-5,-7,-1,-5,-2,0,-7,0,70%,73%,-3%
+Díaz, Lewin,650331,Marlins,,1B,3,4,0,4,0,0,1,3,74%,70%,4%
+Díaz, Yandy,650490,Rays,,3B,-1,-1,0,-1,-2,2,-5,3,67%,68%,-1%
+Eaton, Adam,594809,---,,RF,-1,-1,1,-1,-1,0,-1,0,88%,88%,0%
+Edman, Tommy,669242,Cardinals,,2B,10,13,3,3,3,4,4,9,81%,78%,3%
+Ellis, Drew,656403,D-backs,,3B,-3,-5,-2,-1,-2,0,-4,-1,58%,67%,-9%
+Engel, Adam,641553,White Sox,,CF,3,4,1,2,2,-1,2,2,91%,87%,4%
+Escobar, Alcides,444876,Nationals,,SS,-3,-3,2,-5,-2,1,0,-4,71%,73%,-2%
+Escobar, Eduardo,500871,---,,3B,-1,-2,1,-1,-1,-1,2,-3,69%,70%,-1%
+Espinal, Santiago,669289,Blue Jays,,3B,4,5,4,2,-2,0,3,2,76%,74%,2%
+Estrada, Thairo,642731,Giants,,2B,1,2,0,0,1,0,0,1,81%,79%,2%
+Evans, Phillip,595943,Pirates,,3B,-4,-4,0,-2,-1,-1,0,-4,73%,76%,-3%
+Fargas, Johneshwy,641561,---,,CF,1,1,1,0,-1,0,0,0,85%,83%,2%
+Farmer, Kyle,571657,Reds,,SS,4,5,1,9,-5,0,1,4,76%,75%,1%
+Fletcher, David,664058,Angels,,2B,7,9,9,4,-5,2,7,2,78%,77%,1%
+Flores, Wilmer,527038,Giants,,3B,0,0,-2,4,-1,0,-2,2,75%,75%,0%
+Florial, Estevan,664314,Yankees,,CF,1,1,0,0,1,0,1,0,94%,88%,6%
+Ford, Mike,645801,Yankees,,1B,1,1,0,1,1,-1,-1,2,66%,63%,3%
+Fowler, Dustin,641583,Pirates,,CF,0,0,0,0,0,0,0,0,90%,89%,1%
+Fraley, Jake,641584,Mariners,,LF,1,1,1,1,1,-2,1,0,89%,88%,1%
+France, Ty,664034,Mariners,,1B,-2,-3,1,-3,-2,1,-2,-1,71%,72%,-1%
+Franco, Maikel,596748,Orioles,,3B,-2,-3,2,-5,0,1,-3,0,66%,67%,-1%
+Franco, Wander,677551,Rays,,SS,-3,-4,-4,-1,1,0,-4,0,74%,75%,-1%
+Frazier, Adam,624428,---,,2B,1,2,2,-1,0,1,-2,3,78%,78%,0%
+Frazier, Clint,640449,Yankees,,RF,-8,-8,0,-4,-2,-2,-6,-2,80%,88%,-8%
+Frazier, Todd,453943,Pirates,,3B,0,1,0,0,0,0,0,0,75%,70%,5%
+Freeman, Freddie,518692,Braves,,1B,2,3,2,-3,3,1,-4,7,70%,69%,1%
+Freeman, Mike,502273,Reds,,2B,1,2,1,0,0,0,1,1,80%,75%,5%
+Friedl, TJ,670770,Reds,,CF,0,0,0,0,0,0,0,0,71%,71%,0%
+Fuentes, Joshua,658069,Rockies,,3B,0,0,1,-1,0,0,1,0,76%,76%,0%
+Gallo, Joey,608336,---,,RF,6,7,2,2,3,-1,6,1,89%,87%,2%
+Galvis, Freddy,520471,---,,SS,-3,-3,2,-1,-3,-2,2,-5,72%,73%,-1%
+Gamel, Ben,592325,---,,LF,-9,-10,-1,-3,-6,0,-5,-5,82%,86%,-4%
+García, Adolis,666969,Rangers,,CF,11,12,4,4,5,0,9,3,91%,87%,4%
+García, Avisaíl,541645,Brewers,,RF,-1,-2,-1,1,-2,1,0,-1,88%,89%,-1%
+García, Leury,544725,White Sox,,CF,-2,-3,-1,3,-3,-2,-3,0,77%,78%,-1%
+García, Luis,671277,Nationals,,2B,-9,-12,-6,1,-6,-1,-9,-3,72%,78%,-6%
+García, Robel,596825,Astros,,2B,-2,-3,0,-1,-2,0,-2,-1,67%,70%,-3%
+Gardner, Brett,458731,Yankees,,LF,0,0,-1,0,0,1,-1,1,88%,87%,1%
+Garlick, Kyle,664247,Twins,,RF,0,-1,1,-2,0,0,0,0,90%,91%,-1%
+Giambrone, Trent,623508,Cubs,,2B,0,-1,-1,0,0,0,-1,0,70%,76%,-6%
+Giménez, Andrés,665926,Indians,,SS,2,3,4,1,-2,-1,2,1,76%,75%,1%
+Gittens, Chris,656467,Yankees,,1B,1,1,0,0,1,0,1,1,82%,77%,5%
+Goldschmidt, Paul,502671,Cardinals,,1B,4,5,6,-2,0,1,2,3,75%,73%,2%
+Gonzalez, Marwin,503556,---,,1B,3,4,5,1,-2,0,2,2,75%,74%,1%
+Gonzalez, Romy,663853,White Sox,,3B,0,0,0,-1,0,0,0,-1,70%,74%,-4%
+González, Erik,570481,Pirates,,SS,2,3,0,3,0,0,5,-1,73%,71%,2%
+Goodrum, Niko,592348,Tigers,,SS,3,4,2,1,1,1,1,3,75%,74%,1%
+Goodwin, Brian,571718,White Sox,,CF,-4,-5,-1,-5,3,-2,-2,-3,84%,87%,-3%
+Gordon, Nick,624503,Twins,,CF,-2,-2,-2,0,1,0,0,-2,79%,80%,-1%
+Gosselin, Phil,594838,Angels,,2B,-5,-6,0,-3,-2,-1,-6,0,72%,75%,-3%
+Grandal, Yasmani,518735,White Sox,,1B,-1,-1,0,-1,0,0,0,-1,60%,70%,-10%
+Gregorius, Didi,544369,Phillies,,SS,-13,-18,-6,-3,-8,0,-9,-8,72%,77%,-5%
+Grichuk, Randal,545341,Blue Jays,,CF,-1,-1,1,0,1,-2,2,-3,88%,89%,-1%
+Grisham, Trent,663757,Padres,,CF,6,6,1,3,3,-1,0,6,89%,87%,2%
+Grossman, Robbie,543257,Tigers,,LF,-1,-1,1,-1,-2,1,2,-2,85%,85%,0%
+Guerrero Jr., Vladimir,665489,Blue Jays,,1B,-3,-3,-1,0,-1,-2,-2,-2,74%,76%,-2%
+Guillorme, Luis,641645,Mets,,2B,0,1,-2,1,1,0,-2,2,69%,69%,0%
+Gurriel Jr., Lourdes,666971,Blue Jays,,LF,-6,-7,0,-3,-2,-2,-6,-1,84%,87%,-3%
+Gurriel, Yuli,493329,Astros,,1B,0,0,0,-1,1,0,2,-2,76%,76%,0%
+Gutierrez, Kelvin,642721,---,,3B,0,0,-1,-2,4,-1,1,0,72%,71%,1%
+Haase, Eric,606992,Tigers,,LF,0,0,0,0,0,0,0,0,97%,95%,2%
+Hager, Jake,606993,---,,2B,0,-1,0,0,-1,0,0,-1,80%,83%,-3%
+Haggerty, Sam,664059,Mariners,,LF,-1,-1,1,0,-1,0,-1,0,86%,87%,-1%
+Hamilton, Billy,571740,White Sox,,CF,2,2,-1,3,1,-1,1,2,93%,90%,3%
+Hampson, Garrett,641658,Rockies,,2B,8,9,2,1,5,1,4,5,86%,83%,3%
+Haniger, Mitch,571745,Mariners,,RF,-6,-6,-2,-1,-3,-1,-7,0,85%,87%,-2%
+Happ, Ian,664023,Cubs,,CF,-4,-5,0,-1,-2,-3,-2,-3,86%,88%,-2%
+Harper, Bryce,547180,Phillies,,RF,-4,-5,3,-3,-5,0,-3,-2,82%,84%,-2%
+Harrison, Josh,543281,---,,2B,4,6,6,4,0,-4,-1,7,76%,75%,1%
+Haseley, Adam,656514,Phillies,,CF,-1,-2,0,-1,-1,0,-1,-1,79%,87%,-8%
+Hayes, Ke'Bryan,663647,Pirates,,3B,10,13,4,3,4,2,11,1,72%,68%,4%
+Hays, Austin,669720,Orioles,,LF,0,0,0,0,0,0,1,0,90%,90%,0%
+Heath, Nick,670084,D-backs,,CF,1,2,0,1,0,0,1,1,100%,92%,8%
+Heineman, Scott,595981,Reds,,CF,1,1,0,0,0,0,0,1,93%,88%,5%
+Heredia, Guillermo,628338,Braves,,CF,5,6,1,1,2,1,4,2,91%,88%,3%
+Hermosillo, Michael,641684,Cubs,,CF,1,1,0,1,0,0,1,1,100%,95%,5%
+Hernandez, Yadiel,628450,Nationals,,LF,-5,-5,0,-1,-4,-1,-4,-1,84%,88%,-4%
+Hernandez, Yonny,660634,Rangers,,3B,1,1,1,0,-1,0,0,0,76%,76%,0%
+Hernández, César,514917,---,,2B,0,0,-1,-5,5,0,-1,1,72%,72%,0%
+Hernández, Enrique,571771,Red Sox,,2B,5,5,2,6,-1,-2,9,-3,84%,83%,1%
+Hernández, Teoscar,606192,Blue Jays,,RF,0,0,1,-3,2,0,-1,2,87%,87%,0%
+Herrera, Odúbel,546318,Phillies,,CF,6,6,1,3,4,-2,5,2,90%,87%,3%
+Heyward, Jason,518792,Cubs,,RF,3,3,1,1,1,1,0,3,88%,86%,2%
+Hicks, Aaron,543305,Yankees,,CF,1,1,-1,1,0,0,0,1,93%,91%,2%
+Hill, Derek,656537,Tigers,,CF,2,3,-1,2,1,1,1,1,86%,84%,2%
+Hilliard, Sam,656541,Rockies,,CF,1,1,0,0,1,0,0,1,89%,89%,0%
+Hiura, Keston,669374,Brewers,,2B,0,0,-1,1,0,0,0,0,76%,76%,0%
+Hoerner, Nico,663538,Cubs,,2B,8,11,3,5,2,1,5,6,79%,72%,7%
+Holt, Brock,571788,Rangers,,2B,0,1,-3,1,2,0,0,0,75%,74%,1%
+Hoskins, Rhys,656555,Phillies,,1B,-1,-2,0,-1,-2,2,1,-3,69%,69%,0%
+Hosmer, Eric,543333,Padres,,1B,0,0,1,-2,1,1,0,1,78%,78%,0%
+Ibáñez, Andy,628451,Rangers,,2B,3,4,3,1,0,0,3,1,79%,77%,2%
+Iglesias, José,578428,---,,SS,1,2,2,-1,-1,1,-2,4,74%,73%,1%
+Inciarte, Ender,542255,Braves,,CF,1,2,0,0,0,1,1,1,94%,91%,3%
+India, Jonathan,663697,Reds,,2B,-5,-7,-2,-3,-3,2,-2,-4,77%,78%,-1%
+Isbel, Kyle,664728,Royals,,RF,1,1,0,0,1,0,1,0,90%,88%,2%
+Jankowski, Travis,608671,Phillies,,CF,2,2,0,1,1,0,1,1,93%,91%,2%
+Jiménez, Eloy,650391,White Sox,,LF,2,2,0,2,-1,1,1,0,82%,79%,3%
+Joe, Connor,656582,Rockies,,LF,-1,-1,0,0,-1,0,-1,0,82%,83%,-1%
+Johnson, Daniel,669288,Indians,,RF,0,0,0,-1,0,0,1,-1,85%,85%,0%
+Jones, JaCoby,592444,Tigers,,CF,1,1,-1,1,1,0,-1,2,91%,90%,1%
+Jones, Jahmai,663330,Orioles,,2B,-3,-5,-3,-1,-1,0,-4,0,74%,80%,-6%
+Jones, Taylor,622100,Astros,,1B,0,0,0,-1,0,0,-1,1,76%,77%,-1%
+Joyce, Matt,459964,Phillies,,RF,1,1,0,1,1,0,0,1,96%,90%,6%
+Judge, Aaron,592450,Yankees,,RF,0,0,2,0,-2,0,1,-1,87%,87%,0%
+Kelenic, Jarred,672284,Mariners,,CF,-2,-2,-1,1,-2,0,-2,0,85%,85%,0%
+Kemp, Tony,643393,Athletics,,2B,2,2,3,1,-3,1,1,1,81%,81%,0%
+Kepler, Max,596146,Twins,,RF,7,8,1,5,1,1,9,0,92%,89%,3%
+Kieboom, Carter,666198,Nationals,,3B,-10,-13,-9,-4,0,0,-11,-2,65%,71%,-6%
+Kiermaier, Kevin,595281,Rays,,CF,11,12,2,5,4,0,6,6,94%,90%,4%
+Kim, Ha-Seong,673490,Padres,,SS,2,3,0,-1,1,2,-2,5,79%,78%,1%
+Kiner-Falefa, Isiah,643396,Rangers,,SS,-5,-7,-14,5,3,-1,-10,3,75%,76%,-1%
+Kirilloff, Alex,666135,Twins,,RF,0,1,-1,1,1,0,1,0,80%,79%,1%
+Kozma, Pete,518902,Athletics,,SS,1,1,0,0,1,0,2,-1,88%,82%,6%
+La Stella, Tommy,600303,Giants,,2B,1,1,0,0,1,0,-1,2,72%,72%,0%
+LaMarre, Ryan,534606,Yankees,,CF,-1,-1,0,0,-1,0,-1,0,80%,88%,-8%
+Lagares, Juan,501571,Angels,,CF,2,2,1,3,0,-2,3,0,89%,88%,1%
+Lamb, Jake,571875,---,,3B,-2,-3,0,0,-2,0,-1,-2,73%,76%,-3%
+Larnach, Trevor,663616,Twins,,LF,0,0,1,-2,0,1,1,0,88%,88%,0%
+Laureano, Ramón,657656,Athletics,,CF,-1,-1,-1,2,-1,-1,0,-1,87%,87%,0%
+LeMahieu, DJ,518934,Yankees,,2B,0,1,-4,3,3,-2,-1,1,74%,73%,1%
+Lee, Khalil,666137,Mets,,RF,0,-1,0,-1,0,0,-1,0,90%,95%,-5%
+Lewis, Kyle,641786,Mariners,,CF,0,0,0,0,-1,1,2,-1,91%,90%,1%
+Leyba, Domingo,642736,---,,2B,-1,-2,1,0,-2,0,-1,-1,67%,69%,-2%
+Lindor, Francisco,596019,Mets,,SS,15,20,5,8,5,2,12,8,77%,72%,5%
+Locastro, Tim,641796,---,,CF,0,0,0,1,-1,1,1,-1,85%,85%,0%
+Long Jr., Shed,643418,Mariners,,2B,-2,-2,1,0,-2,0,-3,1,79%,81%,-2%
+Longoria, Evan,446334,Giants,,3B,0,0,5,-1,-3,0,3,-2,71%,70%,1%
+Lopez, Alejo,664670,Reds,,2B,-1,-1,-1,0,-1,0,-1,-1,69%,81%,-12%
+Lopez, Nicky,670032,Royals,,SS,19,25,10,13,-1,3,20,5,72%,68%,4%
+Lowe, Brandon,664040,Rays,,2B,-4,-5,4,-5,0,-5,-7,1,75%,76%,-1%
+Lowe, Nathaniel,663993,Rangers,,1B,-2,-2,0,-4,1,0,-1,-2,71%,71%,0%
+Lowrie, Jed,476704,Athletics,,2B,-2,-2,2,-3,-1,-1,-2,0,70%,71%,-1%
+Luplow, Jordan,656669,---,,RF,-1,-1,0,0,0,0,0,-1,82%,83%,-1%
+Lux, Gavin,666158,Dodgers,,SS,-2,-3,1,-2,-1,-1,-2,0,75%,76%,-1%
+López, Jack,605346,Red Sox,,2B,0,0,0,0,0,0,0,0,76%,77%,-1%
+Machado, Manny,592518,Padres,,3B,2,3,6,0,-3,0,4,-1,73%,72%,1%
+Machín, Vimael,605353,Athletics,,SS,-1,-2,-2,1,0,0,-2,0,70%,74%,-4%
+Madrigal, Nick,663611,White Sox,,2B,1,1,0,0,1,0,2,-1,68%,68%,0%
+Mancini, Trey,641820,Orioles,,LF,0,0,2,1,-2,0,2,-1,73%,73%,0%
+Marcano, Tucupita,672779,Padres,,2B,2,3,1,2,0,0,1,1,79%,69%,10%
+Margot, Manuel,622534,Rays,,CF,15,17,3,4,8,2,13,4,93%,87%,6%
+Marisnick, Jake,545350,---,,CF,4,4,1,1,2,0,3,1,94%,90%,4%
+Marmolejos, José,592530,Mariners,,LF,-2,-2,-1,-1,0,0,-2,0,70%,73%,-3%
+Marrero, Deven,571918,Marlins,,3B,1,2,0,1,0,0,1,1,60%,49%,11%
+Marsh, Brandon,669016,Angels,,CF,2,2,0,1,1,0,1,0,90%,89%,1%
+Marte, Ketel,606466,D-backs,,SS,-5,-6,-1,-2,-3,-1,-3,-3,82%,84%,-2%
+Marte, Starling,516782,---,,CF,3,4,-2,6,1,-1,2,2,88%,86%,2%
+Martin, Jason,641829,Rangers,,LF,1,1,0,1,-1,0,0,1,92%,92%,0%
+Martin, Richie,621006,Orioles,,SS,-4,-6,2,-4,-4,0,-5,-1,69%,73%,-4%
+Martinez, J.D.,502110,Red Sox,,RF,-1,-1,0,-1,0,0,-3,2,83%,85%,-2%
+Martini, Nick,605361,Cubs,,LF,-1,-1,-1,0,0,0,-1,0,82%,90%,-8%
+Mateo, Jorge,622761,---,,2B,-1,-2,1,0,-3,1,1,-2,77%,78%,-1%
+Mathisen, Wyatt,621500,D-backs,,3B,-1,-1,-2,0,1,0,-1,0,64%,68%,-4%
+Maton, Nick,665155,Phillies,,SS,-3,-4,-3,-1,0,0,-4,0,72%,76%,-4%
+Maybin, Cameron,457727,Mets,,CF,0,0,0,0,0,0,0,0,93%,89%,4%
+Mayfield, Jack,608686,---,,3B,1,2,2,0,-1,0,-1,3,70%,69%,1%
+Mazara, Nomar,608577,Tigers,,RF,0,0,1,-1,0,0,0,1,86%,85%,1%
+McCann, James,543510,Mets,,1B,0,0,0,0,0,0,0,1,67%,66%,1%
+McCarthy, Jake,664983,D-backs,,CF,1,1,1,-1,0,0,1,0,98%,97%,1%
+McCormick, Chas,676801,Astros,,CF,11,12,1,3,6,2,9,2,93%,87%,6%
+McCutchen, Andrew,457705,Phillies,,CF,-3,-4,-2,-1,0,-1,-3,-1,85%,86%,-1%
+McKenna, Ryan,663630,Orioles,,LF,4,4,0,2,2,1,3,1,89%,85%,4%
+McKinney, Billy,641856,---,,RF,1,1,-1,1,0,0,2,-1,86%,85%,1%
+McKinstry, Zach,656716,Dodgers,,2B,-2,-3,-1,0,-2,0,0,-3,73%,76%,-3%
+McMahon, Ryan,641857,Rockies,,2B,9,12,2,3,6,1,11,0,74%,71%,3%
+McNeil, Jeff,643446,Mets,,2B,4,5,4,0,2,0,2,4,83%,81%,2%
+Meadows, Austin,640457,Rays,,LF,-3,-4,0,-2,-2,0,-3,0,84%,86%,-2%
+Mendick, Danny,664901,White Sox,,2B,-2,-2,1,-2,-1,0,-1,-1,75%,76%,-1%
+Mercado, Oscar,640458,Indians,,CF,2,2,0,-1,2,0,2,1,90%,89%,1%
+Mercer, Jordy,474568,Nationals,,SS,0,-1,-1,0,1,-1,0,-1,69%,70%,-1%
+Merrifield, Whit,593160,Royals,,2B,4,6,3,4,-1,0,3,3,77%,76%,1%
+Meyers, Jake,676694,Astros,,CF,4,5,-1,5,1,0,3,2,87%,83%,4%
+Miller, Brad,543543,Phillies,,2B,-3,-4,2,-4,-2,0,-2,-1,72%,74%,-2%
+Miller, Owen,680911,Indians,,2B,-1,-1,-1,1,-1,-1,-1,-1,72%,73%,-1%
+Moncada, Yoán,660162,White Sox,,3B,-1,-1,-1,-1,0,1,-7,5,76%,76%,0%
+Mondesi, Adalberto,609275,Royals,,SS,3,4,2,0,1,0,3,1,74%,70%,4%
+Moniak, Mickey,666160,Phillies,,CF,0,0,0,0,0,0,0,0,94%,92%,2%
+Moore, Dylan,664238,Mariners,,2B,9,11,0,2,6,3,6,4,84%,81%,3%
+Moran, Colin,592567,Pirates,,3B,-2,-3,1,-5,0,0,0,-3,67%,70%,-3%
+Moreland, Mitch,519048,Athletics,,1B,0,1,0,0,0,0,0,0,82%,77%,5%
+Moroff, Max,621559,Cardinals,,2B,0,0,-1,0,0,0,-1,0,62%,65%,-3%
+Motter, Taylor,600301,---,,SS,0,0,0,0,0,-1,0,0,59%,58%,1%
+Mountcastle, Ryan,663624,Orioles,,1B,-8,-10,0,-5,-1,-4,-6,-4,74%,78%,-4%
+Moustakas, Mike,519058,Reds,,3B,-3,-4,-3,-1,0,0,-3,-1,64%,67%,-3%
+Mullins, Cedric,656775,Orioles,,CF,10,11,0,6,4,1,8,3,91%,89%,2%
+Muncy, Max,571970,Dodgers,,1B,4,5,5,1,0,0,0,5,79%,78%,1%
+Myers, Wil,571976,Padres,,1B,1,2,1,2,-2,0,3,-1,91%,90%,1%
+Naquin, Tyler,571980,Reds,,CF,-4,-5,0,-3,-2,0,-2,-3,86%,88%,-2%
+Naylor, Josh,647304,Indians,,RF,1,1,-1,4,-1,-1,1,-1,81%,80%,1%
+Neuse, Sheldon,641914,Dodgers,,2B,0,0,-1,1,0,0,0,0,75%,74%,1%
+Nevin, Tyler,663527,Orioles,,LF,-2,-2,0,-2,0,0,-2,0,67%,81%,-14%
+Newman, Kevin,621028,Pirates,,SS,2,3,5,1,-4,1,2,1,77%,76%,1%
+Nimmo, Brandon,607043,Mets,,CF,4,5,1,1,2,0,2,2,93%,91%,2%
+Nogowski, John,596056,---,,1B,-1,-2,1,-3,-1,0,-1,-1,64%,67%,-3%
+Nootbaar, Lars,663457,Cardinals,,RF,2,2,1,0,0,1,1,2,90%,87%,3%
+Núñez, Renato,600524,Tigers,,3B,-2,-2,0,-1,-1,0,-2,0,59%,68%,-9%
+O'Grady, Brian,657434,Padres,,CF,0,0,0,0,0,0,0,0,92%,92%,0%
+O'Hearn, Ryan,656811,Royals,,1B,-1,-1,0,0,-2,-1,-2,0,77%,79%,-2%
+O'Neill, Tyler,641933,Cardinals,,LF,3,3,1,0,0,2,1,3,89%,88%,1%
+Odor, Rougned,596059,Yankees,,2B,7,9,3,3,2,0,3,6,76%,73%,3%
+Oliva, Jared,666931,Pirates,,RF,0,0,0,0,0,0,-1,1,93%,92%,1%
+Olivares, Edward,658668,Royals,,RF,-2,-2,1,-1,-2,0,-1,-1,84%,89%,-5%
+Olson, Matt,621566,Athletics,,1B,1,1,1,0,-3,4,3,-2,71%,71%,0%
+Ortega, Rafael,542364,Cubs,,CF,-2,-2,0,0,0,-1,-2,0,87%,88%,-1%
+Owings, Chris,572008,Rockies,,SS,-1,-1,0,-1,0,0,-1,1,74%,77%,-3%
+Ozuna, Marcell,542303,Braves,,LF,0,0,0,0,0,0,-1,1,91%,91%,0%
+Pache, Cristian,665506,Braves,,CF,1,1,1,0,0,0,1,0,93%,90%,3%
+Padlo, Kevin,656821,Rays,,3B,1,1,0,1,-1,0,1,0,93%,87%,6%
+Palacios, Josh,641943,Blue Jays,,CF,-1,-1,0,0,0,-1,-1,0,80%,85%,-5%
+Panik, Joe,605412,---,,2B,-3,-3,-1,-4,0,1,-4,1,69%,71%,-2%
+Paredes, Isaac,670623,Tigers,,3B,1,2,0,2,0,0,1,1,73%,71%,2%
+Park, Hoy,660829,---,,2B,1,2,0,1,1,0,2,0,78%,76%,2%
+Parra, Gerardo,467827,Nationals,,LF,-2,-2,0,0,0,-2,-1,-1,92%,96%,-4%
+Pederson, Joc,592626,---,,CF,-5,-5,0,-1,-1,-3,-3,-2,83%,86%,-3%
+Peralta, David,444482,D-backs,,LF,3,3,2,0,2,-1,-1,4,88%,87%,1%
+Peraza, José,606299,Mets,,SS,5,7,1,4,2,0,4,2,73%,66%,7%
+Perdomo, Geraldo,672695,D-backs,,SS,0,0,0,-1,0,0,-1,1,72%,73%,-1%
+Peters, DJ,656847,---,,CF,3,4,1,3,0,0,4,0,91%,88%,3%
+Peterson, Jace,607054,Brewers,,2B,-1,-1,-1,-2,2,1,0,-1,81%,82%,-1%
+Pham, Tommy,502054,Padres,,LF,-4,-4,-1,-3,-1,0,-1,-3,85%,87%,-2%
+Phillips, Brett,621433,Rays,,CF,9,10,0,3,3,2,7,4,92%,88%,4%
+Pillar, Kevin,607680,Mets,,CF,0,0,0,1,-2,0,-1,1,88%,88%,0%
+Pinder, Chad,640461,Athletics,,2B,-5,-7,-2,-4,-1,1,-4,-3,78%,82%,-4%
+Piscotty, Stephen,572039,Athletics,,RF,-2,-3,0,-2,-2,1,-2,-1,87%,89%,-2%
+Polanco, Gregory,570256,Pirates,,RF,-1,-1,0,1,-1,-1,0,-1,87%,87%,0%
+Polanco, Jorge,593871,Twins,,SS,-3,-4,3,-6,-2,2,-1,-2,78%,79%,-1%
+Pollock, AJ,572041,Dodgers,,CF,1,1,1,1,-2,0,0,1,87%,86%,1%
+Profar, Jurickson,595777,Padres,,2B,-6,-7,-3,-1,-4,0,-3,-4,81%,84%,-3%
+Pujols, Albert,405395,---,,1B,0,-1,0,-1,0,0,-3,3,70%,70%,0%
+Quinn, Roman,596451,Phillies,,CF,2,2,1,0,1,0,1,1,92%,86%,6%
+Raley, Luke,670042,Dodgers,,RF,0,0,0,0,0,0,0,0,100%,99%,1%
+Ramirez, Harold,623912,Indians,,LF,-4,-4,1,-4,0,-1,-3,-1,84%,86%,-2%
+Ramos, Henry,592656,D-backs,,RF,0,0,-1,0,0,1,0,0,85%,85%,0%
+Ramírez, José,608070,Indians,,3B,5,7,4,1,1,1,4,3,73%,71%,2%
+Realmuto, J.T.,592663,Phillies,,1B,0,-1,0,-1,0,0,0,-1,67%,69%,-2%
+Reddick, Josh,502210,D-backs,,RF,-1,-1,0,-1,1,-1,-1,0,85%,87%,-2%
+Refsnyder, Rob,608701,Twins,,LF,2,2,0,2,0,0,1,1,93%,90%,3%
+Rendon, Anthony,543685,Angels,,3B,-5,-6,-1,0,-5,-1,1,-7,67%,70%,-3%
+Renfroe, Hunter,592669,Red Sox,,RF,-2,-2,0,0,0,-2,0,-2,85%,85%,0%
+Rengifo, Luis,650859,Angels,,2B,-5,-7,-3,-2,-3,0,-5,-2,75%,78%,-3%
+Reyes, Franmil,614177,Indians,,RF,-2,-2,0,-1,0,-1,-1,0,74%,83%,-9%
+Reyes, Pablo,622569,Brewers,,3B,1,1,0,0,1,0,0,0,73%,72%,1%
+Reyes, Victor,622682,Tigers,,CF,-1,-1,0,0,0,0,1,-2,83%,84%,-1%
+Reynolds, Bryan,668804,Pirates,,CF,9,11,4,2,5,-1,7,4,90%,88%,2%
+Riley, Austin,663586,Braves,,3B,-4,-6,-1,-3,-2,0,-4,-2,73%,74%,-1%
+Rivas, Alfonso,663845,Cubs,,LF,0,0,0,0,0,0,0,0,87%,87%,0%
+Rivera, Emmanuel,656896,Royals,,3B,-2,-3,-2,-1,0,0,-4,1,69%,72%,-3%
+Rizzo, Anthony,519203,---,,1B,4,6,2,3,0,0,0,5,73%,71%,2%
+Robert, Luis,673357,White Sox,,CF,4,5,-1,4,1,0,2,3,92%,89%,3%
+Robertson, Daniel,621002,Brewers,,2B,-3,-4,-2,-2,-1,1,-4,0,74%,80%,-6%
+Robles, Victor,645302,Nationals,,CF,2,2,2,-1,0,0,1,0,88%,87%,1%
+Rodgers, Brendan,663898,Rockies,,2B,-3,-4,0,-1,-3,0,-1,-3,75%,77%,-2%
+Rojas, Jose,670351,Angels,,3B,-4,-4,1,-7,1,0,-2,-2,76%,79%,-3%
+Rojas, Josh,668942,D-backs,,2B,-4,-6,-4,1,-5,1,-3,-3,76%,77%,-1%
+Rojas, Miguel,500743,Marlins,,SS,-3,-4,-5,1,1,0,0,-4,77%,77%,0%
+Romine, Andrew,461865,Cubs,,SS,1,1,0,1,0,-1,-1,2,68%,67%,1%
+Rondón, José,602922,Cardinals,,SS,-1,-1,1,0,-2,0,0,-1,81%,82%,-1%
+Rooker, Brent,667670,Twins,,LF,-4,-5,0,-1,-2,-1,-4,-1,81%,86%,-5%
+Rosario, Amed,642708,Indians,,SS,-2,-3,1,-2,-3,1,-1,-2,74%,75%,-1%
+Rosario, Eddie,592696,---,,LF,-1,-1,-2,2,-1,0,-3,2,89%,89%,0%
+Ruf, Darin,573131,Giants,,LF,3,4,1,2,-1,1,2,2,81%,78%,3%
+Ruiz, Rio,547004,---,,3B,1,2,2,2,-1,-1,2,0,79%,78%,1%
+Ríos, Edwin,621458,Dodgers,,3B,1,1,1,0,0,0,0,1,87%,83%,4%
+Sanchez, Adrián,506703,Nationals,,2B,3,4,1,3,1,0,2,3,89%,77%,12%
+Santana, Carlos,467793,Royals,,1B,0,1,1,-2,1,0,-1,1,69%,69%,0%
+Santana, Danny,542454,Red Sox,,CF,0,0,0,1,-1,0,1,0,75%,75%,0%
+Santander, Anthony,623993,Orioles,,RF,-6,-6,-2,-5,-2,2,-6,-1,84%,87%,-3%
+Sanó, Miguel,593934,Twins,,3B,-6,-7,-1,-6,2,-1,-5,-3,66%,69%,-3%
+Schebler, Scott,594988,Angels,,RF,0,1,0,0,1,0,0,1,91%,89%,2%
+Schoop, Jonathan,570731,Tigers,,2B,4,5,3,2,1,0,1,5,77%,75%,2%
+Schrock, Max,621011,Reds,,2B,-1,-2,0,-1,-1,0,-1,-1,75%,77%,-2%
+Schwarber, Kyle,656941,---,,LF,-8,-9,-2,-3,-3,-2,-6,-4,80%,85%,-5%
+Schwindel, Frank,643524,Cubs,,1B,-2,-3,0,-3,0,0,-1,-2,75%,77%,-2%
+Seager, Corey,608369,Dodgers,,SS,-4,-6,-3,-2,-1,1,-5,0,75%,77%,-2%
+Seager, Kyle,572122,Mariners,,3B,3,4,4,0,-1,1,2,2,66%,66%,0%
+Segura, Jean,516416,Phillies,,SS,7,9,2,6,1,1,0,9,74%,72%,2%
+Semien, Marcus,543760,Blue Jays,,SS,4,5,3,-2,2,2,5,-1,79%,78%,1%
+Senzel, Nick,669222,Reds,,CF,1,1,1,0,-1,0,1,0,91%,89%,2%
+Shaw, Travis,543768,---,,3B,-4,-5,-2,-3,0,-1,-4,-2,68%,71%,-3%
+Sheets, Gavin,657757,White Sox,,1B,-2,-2,0,-1,-1,0,-1,-2,71%,77%,-6%
+Short, Zack,670097,Tigers,,SS,-4,-5,-3,-4,2,0,-5,0,79%,81%,-2%
+Sierra, Magneuris,642423,Marlins,,CF,2,2,1,0,0,0,2,0,89%,88%,1%
+Simmons, Andrelton,592743,Twins,,SS,12,16,6,8,2,0,11,5,80%,77%,3%
+Siri, Jose,642350,Astros,,CF,0,0,0,0,0,0,0,0,90%,90%,0%
+Slater, Austin,596103,Giants,,RF,3,3,1,2,2,-2,2,1,90%,89%,1%
+Smith, Dominic,642086,Mets,,LF,-8,-9,0,-4,-5,0,-7,-2,83%,87%,-4%
+Smith, Kevin,675656,Blue Jays,,3B,0,0,0,1,0,-1,1,-1,75%,75%,0%
+Smith, Pavin,656976,D-backs,,RF,-2,-2,2,-6,1,1,3,-5,80%,81%,-1%
+Sogard, Eric,519299,Cubs,,2B,-2,-3,0,-3,1,0,-1,-1,75%,78%,-3%
+Solak, Nick,669256,Rangers,,2B,2,3,2,-2,4,-1,-3,6,71%,70%,1%
+Solano, Donovan,456781,Giants,,2B,0,0,-1,1,0,0,2,-2,75%,75%,0%
+Soler, Jorge,624585,---,,RF,-6,-6,0,-3,-4,0,-5,-2,81%,85%,-4%
+Sosa, Edmundo,624641,Cardinals,,SS,4,6,2,4,1,-1,1,5,78%,76%,2%
+Soto, Juan,665742,Nationals,,LF,5,5,1,4,0,0,4,1,91%,89%,2%
+Souza Jr., Steven,519306,Dodgers,,RF,0,0,0,0,0,0,0,0,90%,93%,-3%
+Springer, George,543807,Blue Jays,,CF,1,2,0,2,0,0,0,2,87%,86%,1%
+Stanton, Giancarlo,519317,Yankees,,RF,-2,-2,0,0,-2,-1,-1,-1,91%,94%,-3%
+Stephenson, Tyler,663886,Reds,,1B,0,0,0,0,-1,0,-1,1,70%,71%,-1%
+Stevenson, Andrew,664057,Nationals,,LF,0,0,1,0,-1,-1,1,-1,90%,91%,-1%
+Stewart, DJ,621466,Orioles,,RF,-5,-6,-4,-3,1,0,-3,-3,83%,87%,-4%
+Stokes Jr., Troy,657011,Pirates,,RF,1,1,0,0,1,0,1,0,100%,93%,7%
+Story, Trevor,596115,Rockies,,SS,-4,-6,1,-2,-4,-1,0,-6,74%,75%,-1%
+Straw, Myles,664702,---,,CF,12,13,1,4,7,1,9,4,91%,88%,3%
+Suárez, Eugenio,553993,Reds,,3B,-7,-10,3,-5,-6,-1,-5,-5,66%,68%,-2%
+Swanson, Dansby,621020,Braves,,SS,2,3,5,0,-3,2,4,-1,75%,74%,1%
+Sánchez, Jesús,660821,Marlins,,RF,2,2,-1,0,1,1,2,1,90%,88%,2%
+Tapia, Raimel,606132,Rockies,,LF,2,3,1,0,2,0,1,2,87%,85%,2%
+Tatis Jr., Fernando,665487,Padres,,SS,1,2,0,0,2,0,1,0,74%,73%,1%
+Tauchman, Mike,643565,---,,LF,3,4,2,2,0,0,2,2,92%,88%,4%
+Taveras, Leody,665750,Rangers,,CF,5,5,1,3,1,0,6,0,93%,89%,4%
+Taylor, Chris,621035,Dodgers,,SS,-2,-2,-2,1,0,-1,-2,0,83%,84%,-1%
+Taylor, Michael A.,572191,Royals,,CF,14,15,0,6,9,0,8,8,89%,85%,4%
+Taylor, Tyrone,621438,Brewers,,LF,3,4,2,1,1,0,3,1,93%,90%,3%
+Tejeda, Anderson,660731,Rangers,,SS,1,1,0,0,0,0,0,0,75%,68%,7%
+Tellez, Rowdy,642133,---,,1B,-4,-5,-3,-2,0,0,-3,-2,66%,71%,-5%
+Thomas, Dillon,605504,Mariners,,CF,-1,-1,-1,0,0,0,-1,0,75%,81%,-6%
+Thomas, Lane,657041,---,,CF,-2,-3,0,0,-1,-1,-1,-1,82%,84%,-2%
+Thompson, Trayce,572204,Cubs,,RF,0,-1,-1,0,0,0,-1,0,87%,89%,-2%
+Tom, Ka'ai,664789,---,,LF,-2,-2,-1,-2,1,0,-1,-1,90%,92%,-2%
+Toro, Abraham,647351,---,,3B,-4,-6,1,-1,-5,0,-2,-4,71%,73%,-2%
+Torrens, Luis,620443,Mariners,,1B,0,0,0,0,1,-1,-1,0,67%,70%,-3%
+Torres, Gleyber,650402,Yankees,,SS,-8,-10,-7,-5,2,0,-7,-3,72%,74%,-2%
+Torreyes, Ronald,591720,Phillies,,3B,3,4,4,0,-1,1,2,2,73%,72%,1%
+Tovar, Wilfredo,541600,Mets,,SS,0,0,0,0,0,0,0,0,73%,69%,4%
+Trammell, Taylor,666211,Mariners,,CF,2,2,1,2,0,-1,0,2,93%,91%,2%
+Trejo, Alan,676701,Rockies,,2B,-1,-1,0,-1,0,0,0,-1,73%,77%,-4%
+Trout, Mike,545361,Angels,,CF,1,1,0,1,0,0,0,1,84%,83%,1%
+Tsutsugo, Yoshi,660294,---,,1B,-4,-4,-1,0,-3,0,-1,-3,76%,80%,-4%
+Tucker, Cole,657061,Pirates,,SS,-3,-4,-1,0,-4,1,-2,-2,73%,77%,-4%
+Tucker, Kyle,663656,Astros,,RF,4,4,1,-2,2,2,4,0,91%,89%,2%
+Turner, Justin,457759,Dodgers,,3B,0,0,3,-2,-1,0,-1,1,72%,72%,0%
+Turner, Trea,607208,---,,SS,2,3,3,1,-4,2,4,-2,77%,77%,0%
+Upton, Justin,457708,Angels,,LF,-5,-6,-1,-1,-4,0,-4,-2,84%,89%,-5%
+Urshela, Gio,570482,Yankees,,3B,-3,-4,2,-3,-4,0,-3,-1,70%,71%,-1%
+Urías, Luis,649966,Brewers,,SS,-9,-12,-1,-9,-2,0,-8,-3,71%,73%,-2%
+Urías, Ramón,602104,Orioles,,SS,-6,-9,-4,-1,-2,-1,-7,-2,75%,78%,-3%
+Valaika, Pat,642162,Orioles,,2B,2,2,1,-1,1,0,-1,3,70%,69%,1%
+Valera, Breyvic,591971,Blue Jays,,2B,1,1,0,-1,2,0,2,0,74%,71%,3%
+VanMeter, Josh,642165,D-backs,,2B,-3,-5,-2,0,-3,0,-6,1,74%,76%,-2%
+Vargas, Ildemaro,545121,---,,2B,-4,-5,-1,-2,-1,-1,-4,-1,68%,76%,-8%
+Varsho, Daulton,662139,D-backs,,CF,4,4,1,2,1,1,5,0,93%,88%,5%
+Vaughn, Andrew,683734,White Sox,,LF,-5,-6,-4,-1,-1,0,-7,1,82%,85%,-3%
+Velazquez, Andrew,623205,Yankees,,SS,-3,-4,-2,0,-2,0,-3,-1,71%,76%,-5%
+Verdugo, Alex,657077,Red Sox,,LF,-5,-6,0,-3,0,-3,-4,-2,87%,89%,-2%
+Vierling, Matt,663837,Phillies,,1B,1,1,-1,1,1,0,0,1,74%,71%,3%
+Villar, Jonathan,542340,Mets,,2B,-2,-3,-1,0,-1,-1,-2,-1,72%,73%,-1%
+Vogelbach, Daniel,596129,Brewers,,1B,-2,-2,1,-2,-2,-1,-1,-2,65%,68%,-3%
+Voit, Luke,572228,Yankees,,1B,-2,-2,-1,-2,0,1,1,-3,73%,76%,-3%
+Vosler, Jason,613564,Giants,,3B,-3,-4,0,0,-2,-2,-2,-2,64%,72%,-8%
+Votto, Joey,458015,Reds,,1B,0,0,1,-3,1,1,2,-2,75%,75%,0%
+Wade Jr., LaMonte,664774,Giants,,RF,0,0,0,1,-1,1,2,-1,84%,84%,0%
+Wade, Tyler,642180,Yankees,,2B,0,0,-1,3,-2,0,0,0,71%,70%,1%
+Walker, Christian,572233,D-backs,,1B,2,3,-2,5,0,0,-3,6,76%,75%,1%
+Walls, Taylor,670764,Rays,,SS,0,0,-1,0,-1,1,-2,1,84%,84%,0%
+Walsh, Jared,665120,Angels,,1B,-3,-4,3,-10,2,0,-4,0,69%,71%,-2%
+Walton, Donovan,622268,Mariners,,2B,-3,-4,-3,-2,0,0,-5,0,72%,79%,-7%
+Ward, Taylor,621493,Angels,,RF,-1,-1,0,1,-1,-2,0,-1,88%,89%,-1%
+Welker, Colton,666213,Rockies,,3B,0,0,0,-1,0,0,0,-1,57%,59%,-2%
+Wendle, Joey,621563,Rays,,2B,6,8,1,0,6,1,4,4,78%,76%,2%
+White, Eli,642201,Rangers,,LF,5,6,3,1,3,0,3,3,88%,83%,5%
+White, Evan,657108,Mariners,,1B,1,1,0,2,-1,0,-1,2,74%,73%,1%
+Wilkerson, Stevie,592859,Orioles,,CF,-2,-2,-1,2,-4,1,1,-4,74%,76%,-2%
+Williams, Justin,642211,Cardinals,,RF,-1,-1,1,-1,0,-1,-1,0,87%,89%,-2%
+Williams, Luke,663897,Phillies,,SS,2,2,0,0,2,1,1,1,79%,76%,3%
+Williams, Mason,592863,Mets,,CF,0,0,0,0,-1,0,-1,1,93%,94%,-1%
+Wilson, Jacob,607111,---,,3B,1,1,1,-1,1,0,1,0,77%,73%,4%
+Winker, Jesse,608385,Reds,,LF,-5,-6,-1,-1,-4,0,-5,-1,81%,84%,-3%
+Wisdom, Patrick,621550,Cubs,,3B,2,3,0,1,1,1,4,-1,76%,75%,1%
+Wong, Kean,642221,Angels,,2B,0,0,0,0,-1,0,0,0,83%,82%,1%
+Wong, Kolten,543939,Brewers,,2B,1,2,1,0,0,1,2,0,78%,78%,0%
+Yastrzemski, Mike,573262,Giants,,RF,6,7,2,4,2,-1,5,2,92%,89%,3%
+Yelich, Christian,592885,Brewers,,LF,2,2,0,0,1,1,2,1,91%,90%,1%
+Young, Andrew,670370,D-backs,,2B,-7,-9,-2,-2,-3,-2,-6,-3,57%,70%,-13%
+Zimmer, Bradley,605548,Indians,,CF,7,8,1,3,3,1,6,2,94%,90%,4%
+Zimmerman, Ryan,475582,Nationals,,1B,0,-1,1,-1,-1,0,0,0,66%,66%,0%
