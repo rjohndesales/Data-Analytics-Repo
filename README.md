@@ -15,3 +15,8 @@ Data Analytics Projects
 - Microsoft Power BI Dashboard (MI 462)
 - Personal AI/Data Ethics Statement (MI462)
 - Design Thinking Statement (MI 462)
+
+# Relevant Certifications
+- Office 2019 : Microsoft Office Specialist: Excel Associate Certification
+- Blue Prism Foundation Training
+- Academy Accreditation : Databricks Lakehouse Fundamentals
