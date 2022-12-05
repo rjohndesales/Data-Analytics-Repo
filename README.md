@@ -13,7 +13,7 @@ Data Analytics Projects
 - Excel and SPSS 76ers Market Research Project (SS290)
 - Microsoft Power BI Dashboard (MI 462)
 - Personal AI/Data Ethics and Design Thinking Statements (MI462)
-- AWS Quicksight Example 
+- AWS Quicksight Example Dashboard
 
 
 # Relevant Certifications
