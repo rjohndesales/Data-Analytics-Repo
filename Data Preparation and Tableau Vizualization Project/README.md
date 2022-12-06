@@ -2,7 +2,7 @@
 
 # Background:
 - Worked at a movie theater, became very interested in movie and shows
-- Specifically found the explosion of streaming services interested
+- Specifically found the explosion of streaming services interesting
 
 
 
