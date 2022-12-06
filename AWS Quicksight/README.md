@@ -27,4 +27,5 @@
 
 # Analytical Significance:
 -Sales Goal exceeded
+- AWS Quicksight allows for much easier data analysis
 
