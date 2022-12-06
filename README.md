@@ -1,7 +1,6 @@
 # Data-Analytics-Repo
 LinkedIn: https://www.linkedin.com/in/rjohnson9721
-MI 462
-Ryan Johnson 
+ 
 Data Analytics Projects
 - AWS Quicksight Example Dashboard
 - Data Mining SAS Project (MI353)
