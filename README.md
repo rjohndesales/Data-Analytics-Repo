@@ -1,4 +1,4 @@
-# Data-Analytics-Repo
+# Ryan Johnson Data-Analytics-Repo
 LinkedIn: https://www.linkedin.com/in/rjohnson9721
  
 Data Analytics Projects
