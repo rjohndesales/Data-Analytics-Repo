@@ -1,4 +1,5 @@
 # Data-Analytics-Repo
+LinkedIn: https://www.linkedin.com/in/rjohnson9721
 MI 462
 Ryan Johnson 
 Data Analytics Projects
