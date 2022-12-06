@@ -1,30 +1,30 @@
-##AWS Quicksight Example:
+## AWS Quicksight Example:
 
-#Background:
+# Background:
 -Use AWS Quicksight at Lutron
 
 
-#Project Parameters:
+# Project Parameters:
 -Showcase AWS Quicksight Knowledge
 
 
 
-#Datasets:
+# Datasets:
 -Sample Business Review Dataset
 
 
 
-#Tools used:
+# Tools used:
 -AWS Quicksight
 
 
 
 
-#Special Features:
+# Special Features:
 -Drill-Down Actions
 -Data-Series Markers
 
 
-#Analytical Significance:
+# Analytical Significance:
 -Sales Goal exceeded
 
