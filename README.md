@@ -27,3 +27,4 @@ Data Analytics Projects
 - Tableau Prep Builder Certification
 - Blue Prism Foundation Training
 - Academy Accreditation : Databricks Lakehouse Fundamentals
+- Google Analytics for Beginners
