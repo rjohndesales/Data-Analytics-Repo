@@ -3,14 +3,14 @@
 # Background:
 - Had experience with other visualization softwares (Tableau and AWS Quicksight), wanted to learn about Power BI
 - MS Azure Power BI training
+- Masters Level Course experience with Power BI
 
 # Project Parameters:
-- Create Sales Analysis Dashboards
-- Sales Analysis and Sales Exploration from MS Azure Training
+- Creating a dashboard to analyze medical sales data
 - Sales Report from Leila Gharani tutorial : How to Use Microsoft Power BI | Create Your First Dashboard Now (Practice Files included)
 
 # Datasets:
-- Datasets provided within Power BI
+- Datasets provided in class, making up a database
 - Datasets provided by Leila Gharani 
 
 # Tools used:
@@ -20,7 +20,9 @@
 # Special Features:
 - Drill-down charts
 - Time Series
+- Aggregate formulas/columns
 
 # Analytical Significance:
-- Within sales exploration, Specialty Bike Shop has highest profit margin
+- Within sales analysis, Specialty Bike Shop has highest profit margin
+- With medical sales dashboard, SouthWest region is in need of another sales rep
 - Power BI Dashboards make data analysis much more streamlined
