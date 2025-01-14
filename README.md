@@ -1,12 +1,16 @@
 # Ryan Johnson Data-Analytics-Repo
 LinkedIn: https://www.linkedin.com/in/rjohnson9721
- 
-Data Analytics Projects
+
+Flagship Projects
+- Machine Learning Healthcare Prediction (Python)
+- Medical Sales Dashboard (Power BI)
+- Statcast Prediction Analysis (Python)
+
+Other Data Analytics Projects
 - AWS Quicksight Example Dashboard
 - Data Mining SAS Project (MI353)
 - Data Preparation and Tableau Vizualization Project (MG226)
 - Personal AI/Data Ethics and Design Thinking Statements (MI462)
-- Database Analysis using Python data frames (CS260)
 - Database Management Tasks using SQL (MI462)
 - Excel and MiniTab Data Analysis Project (MG220)
 - Excel and SPSS 76ers Market Research Project (SS290)
