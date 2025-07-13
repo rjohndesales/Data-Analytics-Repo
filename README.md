@@ -5,6 +5,7 @@ Flagship Projects
 - Machine Learning Healthcare Prediction (Python)
 - Medical Sales Dashboard (Power BI)
 - Statcast Prediction Analysis (Python)
+- Zoho Analytics Slideshow (Zoho Analytics)
 
 Other Data Analytics Projects
 - AWS Quicksight Example Dashboard
